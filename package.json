@@ -1,0 +1,26 @@
+{
+  "name": "babel-examples",
+  "version": "1.0.0",
+  "description": "Babel examples",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangkailang/babel-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangkailang/babel-examples/issues"
+  },
+  "homepage": "https://github.com/wangkailang/babel-examples#readme",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/parser": "^7.5.5",
+    "@babel/types": "^7.5.5"
+  }
+}
